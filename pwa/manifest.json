@@ -1,16 +1,8 @@
 {
-  "name": "Hux Blog",
-  "short_name": "Hux Blog",
-  "description": "About an engineer & designer who loves web.",
-  "icons": [{
-    "src": "icons/128.png",
-    "sizes": "128x128",
-    "type": "image/png"
-  }, {
-    "src": "icons/512.png",
-    "sizes": "512x512",
-    "type": "image/png"
-  }],
+  "name": "Benben's Blog",
+  "short_name": "Benben's Blog",
+  "description": "The space of a software developer.",
+  "icons": [],
   "background_color": "#fff",
   "theme_color": "#000",
   "start_url": "/",
