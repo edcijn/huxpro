@@ -6,6 +6,7 @@ date: 2019-06-22 21:30:00 +0930
 author: Benben
 header-img: false
 catalog: true
+permalink: /:year/:month/embed-disqus/
 tags:
     - 博客
     - Jekyll

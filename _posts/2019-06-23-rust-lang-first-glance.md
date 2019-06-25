@@ -6,6 +6,7 @@ date: 2019-06-23 23:00:00 +0930
 author: Benben
 header-img: img/about-bg.jpg
 catalog: true
+permalink: /:year/:month/rust-lang-first-glance/
 tags:
    - Rust
    - Libra

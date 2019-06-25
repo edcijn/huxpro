@@ -6,6 +6,7 @@ date: 2019-06-21 23:10:47 +0930
 author: Benben
 header-img: false
 catalog: true
+permalink: /:year/:month/hello-blog/
 tags:
     - 博客
     - Jekyll
