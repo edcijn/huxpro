@@ -6,6 +6,7 @@ date: 2019-06-25 21:10:00 +0930
 author: Benben
 header-img: img/about-bg.jpg
 catalog: true
+permalink: /:year/:month/handy-potato-cooking/
 tags:
     - 烹饪
 ---
