@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Rust语言会让程序员更加996？"
+title: "Rust语言会让程序员更容易996？"
 subtitle: " \"本文纯属娱乐\""
 date: 2019-06-23 23:00:00 +0930
 author: Benben
