@@ -22,19 +22,19 @@ cd ~/Library/Preferences/
 rm -rf PyCharm2018.3/
 </pre>         
 
-<code>
+<pre>
 cd ~/Library/Logs
 rm -rf PyCharm2018.3/
-</code>
+</pre>
 
-<code>
+<pre>
 cd ~/Library/Application\ Support/
 rm -rf PyCharm2018.3/
-<code>
+<pre>
 
-<code>
+<pre>
 cd ~/Library/Caches/
 rm -rf PyCharm2018.3/
-</code>
+</pre>
 
 <span style="color: rgba(0,0,0,0);font-size: 6px">本文由Benben[blog.benbenrun.com]原创，转载请注明来源。</span>
