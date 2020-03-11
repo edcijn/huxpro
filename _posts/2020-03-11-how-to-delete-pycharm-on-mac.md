@@ -30,7 +30,7 @@ rm -rf PyCharm2018.3/
 <pre>
 cd ~/Library/Application\ Support/
 rm -rf PyCharm2018.3/
-<pre>
+</pre>
 
 <pre>
 cd ~/Library/Caches/
