@@ -17,10 +17,10 @@ tags:
 
 #### 操作步骤
 
-<code>
+<pre>
 cd ~/Library/Preferences/           
 rm -rf PyCharm2018.3/
-</code>         
+</pre>         
 
 <code>
 cd ~/Library/Logs
