@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hello Blog"
+title: "Hello new blog"
 subtitle: " \"终于决定自己弄一个博客了\""
 date: 2019-06-21 23:10:47 +0930
 author: Benben
